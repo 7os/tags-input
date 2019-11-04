@@ -1,0 +1,13 @@
+{
+  "name" : "7os/fancybox",
+  "description" : "fancyapps/fancybox: optimized for 7 OS web",
+  "homepage" : "https://github.com/7os/fancybox",
+  "support" : {
+    "email" : "dev@tymfrontiers.com",
+    "website" : "https://tymfrontiers.com",
+    "kollabo" : "@tymfrontiers",
+    "twitter" : "@tymfrontiers",
+    "facebook" : "@tymfrontiers",
+    "istagram" : "@tymfrontiers"
+  }
+}

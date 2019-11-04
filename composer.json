@@ -1,0 +1,21 @@
+{
+    "name": "7os/tags-input",
+    "description": "xoxco/jQuery-Tags-Input: - optimized for 7 OS Web",
+    "keywords": ["css", "javascript","7","seven","os","web","tags-input"],
+    "homepage": "https://github.com/7os/tags-input",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "me@sirlouis.io"
+        }
+    ],
+    "require": {
+      "7os/jquery" : ">=0.1@stable"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
