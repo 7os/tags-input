@@ -1,8 +1,8 @@
 {
-    "name": "7os/tags-input",
+    "name": "7os/tags-input-soswapp",
     "description": "xoxco/jQuery-Tags-Input: - optimized for 7 OS Web",
     "keywords": ["css", "javascript","7","seven","os","web","tags-input"],
-    "homepage": "https://github.com/7os/tags-input",
+    "homepage": "https://github.com/7os/tags-input-soswapp",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-      "7os/jquery" : ">=0.1@stable"
+      "7os/jquery-soswapp" : ">=0.1@stable"
     },
     "require-dev": {},
     "autoload": {

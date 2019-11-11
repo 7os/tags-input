@@ -1,8 +1,8 @@
 <?php
 // load up app settings
 $conf_path = \str_replace([
-  "/vendor/7os/tags-input",
-  "/dev/7os/tags-input",
+  "/vendor/7os/tags-input-soswapp",
+  "/dev/7os/tags-input-soswapp",
   "\\vendor\\7os\\tags-input",
   "\\dev\\7os\\tags-input",
 ],"",__DIR__);
